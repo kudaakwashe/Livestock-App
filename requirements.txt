@@ -1,0 +1,10 @@
+streamlit
+ultralytics
+opencv-python
+pytesseract
+pandas
+pillow
+openpyxl
+qrcode
+streamlit-geolocation
+fpdf
