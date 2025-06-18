@@ -8,7 +8,7 @@ import datetime
 import cv2
 import pytesseract
 from ultralytics import YOLO
-from streamlit_geolocation import geolocation
+from streamlit-geolocation import geolocation
 import qrcode
 from io import BytesIO
 from fpdf import FPDF
